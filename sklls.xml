@@ -1,4 +1,14 @@
 <STUDENT>
-	<skills>GIT SDLC STLC JSON XML Postman Dev Tools VPN XCode ADB terminal bash SQL Postgres Redis Jmeter Scrum Python</skills>
+	<skills>GIT</skills>
+	<skills>JSON</skills>
+	<skills>Postman</skills>
+	<skills>XCode</skills>
+	<skills>terminal</skills>
+	<skills>bash</skills>
+	<skills>SQL</skills>
+	<skills>Postgres</skills>
+	<skills>Jmeter</skills>
+	<skills>Scrum</skills>
+	<skills>Python</skills>
 </STUDENT>
 
