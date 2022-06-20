@@ -1,10 +1,10 @@
 <BUG>
-	[<Summery>bugreport</Summery>,
-	<Project>superbug</Project>,
-	<Component>generalpart</Component>,
-	<Version>V1</Version>,
-	<Severity>S4</Severity>,
-	<Status>open</Status>,
-	<Author>Linar</Author>,
+	[<Summery>bugreport</Summery>
+	<Project>superbug</Project>
+	<Component>generalpart</Component>
+	<Version>V1</Version>
+	<Severity>S4</Severity>
+	<Status>open</Status>
+	<Author>Linar</Author>
 	<Description>Successful</Description>]
 </BUG>
