@@ -1,5 +1,5 @@
 <STUDENT>
-	<skills>
+    <skills>
 	<skill>GIT</skill>
 	<skill>JSON</skill>
 	<skill>Postman</skill>
@@ -11,6 +11,6 @@
 	<skill>Jmeter</skill>
 	<skill>Scrum</skill>
 	<skill>Python</skill>
-	</skills>
+    </skills>
 </STUDENT>
 
