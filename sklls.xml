@@ -1,5 +1,5 @@
 <STUDENT>
-	[<skills>GIT</skills>
+	<skills>GIT</skills>
 	<skill1>JSON</skill1>
 	<skill2>Postman</skill2>
 	<skill3>XCode</skill3>
@@ -9,6 +9,6 @@
 	<skill7>Postgres</skill7>
 	<skill8>Jmeter</skill8>
 	<skill9>Scrum</skill9>
-	<skill10>Python</skill10>]
+	<skill10>Python</skill10>
 </STUDENT>
 
