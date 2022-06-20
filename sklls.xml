@@ -1,14 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <STUDENT>
-	[<skills>GIT</skills>
-	<skill1>JSON</skill1>
-	<skill2>Postman</skill2>
-	<skill3>XCode</skill3>
-	<skill4>terminal</skill4>
-	<skill5>bash</skill5>
-	<skill6>SQL</skill6>
-	<skill7>Postgres</skill7>
-	<skill8>Jmeter</skill8>
-	<skill9>Scrum</skill9>
-	<skill10>Python</skill10>]
+   <skills>
+      <skill>GIT</skill>
+      <skill>JSON</skill>
+      <skill>Postman</skill>
+      <skill>XCode</skill>
+      <skill>terminal</skill>
+      <skill>bash</skill>
+      <skill>SQL</skill>
+      <skill>Postgres</skill>
+      <skill>Jmeter</skill>
+      <skill>Scrum</skill>
+      <skill>Python</skill>
+   </skills>
 </STUDENT>
-
